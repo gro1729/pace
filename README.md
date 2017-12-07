@@ -1,2 +1,2 @@
 # pace
-Python Actuarial Calculation Engine
+The *Python Actuarial Calculation Engine*
